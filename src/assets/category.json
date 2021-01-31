@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category_name": "Computer",
+      "category_description": "Computers are here.",
+    },
+    {
+      "id": 2,
+      "category_name": "Phone",
+      "category_description": "Phones are here.",
+    }
+  ]
+}
